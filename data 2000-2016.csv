@@ -1,0 +1,956 @@
+DATA;PROVINCIA;LOCALITA;TIPO;TRAVOLTI;ILLESI;FERITI;MORTI
+08/10/2000;SO;Statale dello Stelvio -P. Stelvio - Bormio;6;2;2;;
+01/11/2000;BL;M. Marmolada -P. Rocca;1;2;;2;
+01/11/2000;SO;Monte Scorluzzo -P. Stelvio - Bormio;4;3;3;;
+02/11/2000;TN;Latemar -Pampeago;3;1;;1;
+05/11/2000;SO;M. Corno - Passo Foscagno - Livigno;2;4;2;2;
+19/11/2000;BZ;Val Senales;3;1;1;;
+26/11/2000;SO;Primolo -Valmalenco;8;2;1;1;
+26/11/2000;VB;Cima Bianca -Domodossola;3;1;;1;
+02/12/2000;BL;Ra Vales -Cortina;8;1;1;;
+30/12/2000;TN;Serodoli -Madonna di Campiglio;2;1;;;1
+30/12/2000;TN;Malga Spora -Andalo;8;2;;1;1
+30/12/2000;BG;Monte Arera -Val Seriana;2;1;;1;
+31/12/2000;AO;Ecures -La Salle;2;1;;1;
+31/12/2000;TN;Monte Bondone;3;1;;1;
+31/12/2000;UD;M. Cimacuta -Forni di Sopra Prealpi Carniche;1;3;2;1;
+02/01/2001;TN;Col Capel -Pampeago;3;2;1;;1
+06/01/2001;TN;Val di Rabbi;5;3;1;2;
+06/01/2001;AO;Les Souches -La Thuile;3;1;;;1
+06/01/2001;TN;Val Daone;5;2;;;2
+08/01/2001;BZ;Maso Corto -Val Senales;3;2;;1;1
+09/01/2001;SO;Plaghera -S. Caterina;4;5;3;2;
+09/01/2001;AO;Pavillon -Courmayeur;3;3;2;1;
+10/01/2001;BZ;Passo Giovo;8;2;2;;
+14/01/2001;AO;Punta Chaligne;1;4;;2;2
+23/01/2001;AO;Alpe Zindean -Lago Gabiet;3;1;1;;
+26/01/2001;SO;Cima di Lemma -Val Tartano;1;1;1;;
+27/01/2001;SO;Pizzo Meriggio -Albosaggia;2;1;1;;
+28/01/2001;BZ;Racines;3;3;3;;
+28/01/2001;CN;Colle di Sampeyre -Val Varaita;8;1;;;1
+28/01/2001;TN;Val Bona -Tione;2;1;;1;
+28/01/2001;TN;Dosso dei Morti;2;2;2;;
+29/01/2001;MC;Val di Bove -Ussita;5;2;1;1;
+30/01/2001;VB;Piani della Rossa -Baceno;2;1;;;1
+30/01/2001;BZ;Monte Lucco;8;2;1;;1
+04/02/2001;VB;Val Formazza -Passo S. Giacomo;1;3;3;;
+04/02/2001;BL;Monte Alto di Pelsa -Taibon;1;4;;4;
+04/02/2001;AO;Dondena -Champorcher;3;1;1;;
+04/02/2001;UD;Monte Crostis -Forni Avoltri Alpi carniche;2;1;;;1
+04/02/2001;CN;Cima delle Lose -Valle Stura;1;1;;;1
+09/02/2001;SO;Val Cantone -Livigno;3;1;;;1
+09/02/2001;TN;Panciana -Folgarida;3;2;1;1;
+10/02/2001;BZ;Val d'Ultimo;3;1;;1;
+11/02/2001;LC;Grignone Settentrionale - Pasturo;5;2;2;;
+11/02/2001;AO;Rocce Nere -Monte Rosa;3;3;2;1;
+11/02/2001;TN;Busa de Carl -Valle dei Mocheni;1;1;;;1
+11/02/2001;SO;Pizzo Tambï -Madesimo;1;1;;;1
+27/02/2001;TO;Cima del Rospo -Valprato Soana;2;1;;;1
+01/03/2001;TO;Val Troncea -Pragelato;3;1;;;1
+03/03/2001;UD;Sella Bila Pec -Chiusaforte;8;5;5;;
+04/03/2001;UD;Sella Bila Pec -Chiusaforte Alpi Giulie;8;2;1;1;
+06/03/2001;TO;Grangesises -Sestriere;3;5;1;1;3
+06/03/2001;AO;Couisse -Pila;3;1;1;;
+13/03/2001;BL;Faloria -Cortina;3;3;3;;
+14/03/2001;AO;Gressoney;2;1;;;1
+19/03/2001;AO;Couisse -Pila;3;1;;;1
+23/03/2001;AO;Rif. Lambronecca -Ayas;3;1;;1;
+23/03/2001;AO;Plampiceaux -Courmayeur;8;1;1;;
+24/03/2001;BZ;Valle Aurina;8;1;;;1
+24/03/2001;AO;Rif. Bezzi -Val Grisenche;2;1;;;1
+24/03/2001;BZ;Pista Contrabbandieri -Val Senales;4;1;1;;
+24/03/2001;AO;Valnontey -Cogne;5;1;;;1
+31/03/2001;BZ;Val Senales;1;1;1;;
+05/04/2001;VB;Morasco -Val Formazza;2;7;4;1;2
+08/04/2001;TO;Pian della Mussa;1;1;1;;
+08/04/2001;SO;Pizzo Scalino -Valmalenco;2;3;3;;
+09/04/2001;SO;Cima Manzina -Valfurva;2;1;1;;
+22/04/2001;SO;Monte Rotondo -Val Gerola;1;2;1;1;
+22/04/2001;AO;Cime Bianche -Valtournanche;3;1;1;;
+23/04/2001;BL;Monte Cristallo -Cortina d' Ampezzo;8;2;2;;
+28/04/2001;BZ;Tubre;2;1;1;;
+23/05/2001;SO;Cima Piazzi -Valdidentro;1;2;2;;
+02/06/2001;SO;Strada Passo Forcola -Livigno;6;1;;1;
+13/10/2001;BZ;OrtlesParete Nord Ovest;5;1;;1;
+15/12/2001;BZ;Predoi Passo Merbe;1;2;;;2
+11/02/2002;SO;Bormio Valle Cetta;3;2;2;;
+11/02/2002;AO;Valsavaranche Gran Paradiso;5;2;;1;1
+12/02/2002;BZ;Curon Dosso di Dentro;2;1;;1;
+19/02/2002;BZ;Val Senales;3;1;;;1
+19/02/2002;TO;Claviere Colletto Verde;3;1;;1;
+21/02/2002;TN;Folgarida Strada di Todaro;6;3;;3;
+23/02/2002;TN;Val dei Mocheni;2;1;;;1
+23/02/2002;BZ;Val Martello Sluderspitze;1;1;;1;
+03/03/2002;TO;Cesana Rio Nero;3;1;1;;
+03/03/2002;BZ;Valle Aurina Rio Bianco;1;2;2;;
+03/03/2002;BZ;Valle Aurina Monte Spico;3;1;;1;
+04/03/2002;BZ;Valle Aurina Monte Spico;3;1;1;;
+28/03/2002;BZ;Val Senales;3;2;2;;
+13/04/2002;BS;Ponte di Legno Tonale;3;3;;3;
+28/04/2002;BZ;Curon Barbadorso;1;1;;1;
+24/06/2002;TN;Molveno Cima Brenta;2;1;;;1
+08/12/2002;BL;Cortina d'Ampezzo Lagazuoi;1;2;1;1;0
+19/12/2002;BZ;Passo Rombo Öñtztaler Alpen;1;1;0;0;1
+23/12/2002;SO;Costa del Sol - Livigno Plan della Montanella;3;1;1;0;0
+26/12/2002;BZ;Dossi di Dentro Val di Roja;1;2;2;0;0
+29/12/2002;TN;Cima Sella Gruppo di Brenta;1;2;2;0;0
+29/12/2002;SO;Valdisotto Chiesetta S. Colombano;1;3;3;0;0
+29/12/2002;BZ;Cima di Gioveretto Gruppo dell'Ortles;1;1;0;1;0
+29/12/2002;BZ;Rifugio Canziani Gruppo dell'Ortles;2;1;1;0;0
+29/12/2002;SO;Val Lunga - Tartano Pizzo Scala;2;2;0;0;2
+29/12/2002;BZ;Val di Roja;1;1;1;0;0
+29/12/2002;SO;Chiesa Valmalenco Val Giumellino;1;2;0;2;0
+29/12/2002;BS;Monte Frerone- Breno Passo Frerone;1;6;6;0;0
+29/12/2002;TN;Om Picol Cima Uomo;3;1;1;0;0
+29/12/2002;BG;Val Sambuzza - Carona Pizzo Zema;1;2;0;0;2
+29/12/2002;TN;Punta Tognola Lagorai;3;1;1;0;0
+30/12/2002;TN;Val d'Ambiez Gruppo di Brenta;5;2;2;0;0
+30/12/2002;BZ;Maso Corto Öñtztaler Alpen;3;3;3;0;0
+30/12/2002;BG;Cima dei Sistri - Valleve Forcella Rossa;1;3;3;0;0
+30/12/2002;SO;Val Nera - Livigno Pizzo Val Nera;1;1;0;0;1
+31/12/2002;SO;Lanzada Pizzo Scalino;1;1;1;0;0
+01/01/2003;TN;Cima Vegaia Ortles - Cevedale;2;1;0;0;1
+01/01/2003;BL;Lago di Cavia Pale di San Martino;3;1;1;0;0
+01/01/2003;SO;Sassalbo - Grosio Forcola Di Rosso;1;1;0;1;0
+01/01/2003;TN;Cima Belmonte Maddalene;1;1;1;0;0
+03/01/2003;BZ;Dossi di Dentro Val di Roja;1;2;2;0;0
+03/01/2003;BL;Passo Pordoi Sella;3;1;0;1;0
+04/01/2003;BZ;Val di Roja;1;1;1;0;0
+04/01/2003;BZ;Karlen Val di Roja;2;1;1;0;0
+05/01/2003;AO;Col Fetita Testa di Serena;1;6;0;3;1
+05/01/2003;BS;Vezza d' Oglio Caret - Val Grande;5;3;2;0;1
+06/01/2003;BZ;Grienplatten Val di Roja;1;1;1;0;0
+07/01/2003;TN;M.Redival Ortles - Cevedale;1;2;1;1;0
+09/01/2003;SO;Valfurva Val Sobretta;2;1;1;0;0
+10/01/2003;TN;Pietra Grande Brenta;3;1;1;0;0
+11/01/2003;TN;Tombola Nera, malga Soragazza Lagorai;1;2;2;0;0
+12/01/2003;SO;Valfurva Sasso della Manzina;1;1;1;0;0
+12/01/2003;AO;Mont FallÇre Mont FallÇre;1;10;0;6;4
+12/01/2003;TN;GrostÇ, pian della Regina Brenta;2;1;1;0;0
+19/01/2003;BZ;impianti m.te Spico Valle Aurina;3;2;2;0;0
+21/01/2003;SO;Madesimo SP 66;6;1;1;0;0
+22/01/2003;BG;Foppolo Monte Valgussera;3;1;1;0;0
+24/01/2003;BZ;Solda Ortes Cevedale;8;2;1;1;0
+25/01/2003;BL;Cortina d'Ampezzo Ra Valles;3;2;2;0;0
+25/01/2003;UD;Casera Valsecca (tra Monte Valsecca e Monte Runch) Alpi Carniche Gruppo del Monte Crostis;8;4;2;1;1
+26/01/2003;SO;Val Gerola- Rasura Pizzo Olano;1;9;3;3;3
+01/02/2003;AO;Ghiacciaio del Mont Frety M.Bianco;3;1;0;0;1
+01/02/2003;AO;Aiguilless MarbrÇes M.Bianco;3;1;0;1;0
+06/02/2003;BZ;Maso Corto Val Senales;3;1;0;0;1
+07/02/2003;TN;Monzoni;1;2;1;1;0
+09/02/2003;SO;Costa del Sol - Livigno Plan della Montanella;3;2;2;0;0
+16/02/2003;BZ;Riva di Tures Hirbernock - cima di Moia;1;3;0;1;2
+16/02/2003;BZ;P.sso del Brennero Spina del Lupo;2;1;1;0;0
+19/03/2003;SO;Valfurva Val dei Forni- Rif. Branca;2;1;1;0;0
+24/03/2003;SO;Valfurva Canalino S. Giacomo;2;1;1;0;0
+05/04/2003;BL;Cortina d'Ampezzo Passo Giau;2;2;2;0;0
+05/04/2003;TN;Cermis Lagorai;1;1;1;0;0
+04/05/2003;SO;Ghiacciaio dei Forni - Valfurva Monte Giumella;2;1;1;0;0
+19/05/2003;SO;Chiesa Valmalenco Pizzo Cassandra;5;2;0;2;0
+31/05/2003;SO;Val Verva - Valdidentro Cima Piazzi;1;3;2;0;1
+24/10/2003;SO;Livigno SS Val Forcola;6;2;2;0;0
+01/11/2003;BZ;Maso Corto - Senales Gletschersee;8;2;2;0;0
+01/11/2003;TN;Monte Marmolada;4;1;1;0;0
+09/11/2003;SO;Lanzada Pizzo Scalino;2;1;1;0;0
+29/11/2003;CN;Limone Piemonte Alpi Marittime Vallone dell'Abisso;1;2;0;2;0
+05/12/2003;BZ;Selva di Val Gardena Dantercepies CirDolomiti;3;1;0;0;1
+06/12/2003;BZ;P. Lavina Bianca Dolomiti di Sesto;1;4;3;1;0
+17/12/2003;SO;Valfurva Val Cedec;1;1;1;0;0
+19/12/2003;SO;Costa del SolLivigno Plan della Montanella;3;2;2;0;0
+24/12/2003;TO;Ceresole Reale Colle della Terra;1;1;0;1;0
+26/12/2003;SO;Carosello 3000 - Livigno Alpi ReticheRin da Gen;3;2;0;0;2
+27/12/2003;TN;Forcella Camosci Latemar;2;5;2;2;1
+27/12/2003;TO;Cesana Torinese Alpi Cozie- Punta Glassiez;1;2;1;1;0
+29/12/2003;SO;Madesimo Loc. Teggiate;8;2;2;0;0
+29/12/2003;BS;Monte Campione;3;1;1;0;0
+29/12/2003;SO;Livigno Mottolino;3;1;1;0;0
+29/12/2003;SO;Madesimo Loc. Teggiate;8;4;4;0;0
+30/12/2003;TN;Cermis To de la Trapola;3;0;2;0;0
+03/01/2004;CN;Frabosa Sottana Trucca il Gaviot Alpi Liguri;4;0;2;0;0
+04/01/2004;MO;Canale del Poggione Monte Cimone;1;2;1;0;1
+04/01/2004;TN;Cevedale Cima San Matteo Gruppo Ortles;1;2;1;0;1
+04/01/2004;AO;Cogne Valeille;5;2;1;1;0
+05/01/2004;BL;Falcade Valfrebba;8;1;1;0;0
+05/01/2004;BL;Rifugio Auronzo Tre Cime Lavaredo;8;2;2;0;0
+05/01/2004;BZ;Corno del CeppoVal Scaleres Alpi Sarentinesi;2;1;0;0;1
+05/01/2004;BG;Mezzoldo Alpe AncognoPizzo Segade;8;1;0;0;1
+06/01/2004;BZ;Merano 2000;3;0;1;0;0
+06/01/2004;BZ;Jacobspitze Alpi Sarentinesi;2;2;1;0;1
+16/01/2004;BL;Passo Pordoi - Larsei Piz BoÇ;3;1;0;1;0
+18/01/2004;LC;Grigna Meridionale Cresta Cermenati;5;1;1;0;0
+22/01/2004;TN;Piz BoÇ;5;2;0;1;1
+24/01/2004;AO;Courmayeur Monte Frety;3;1;0;0;1
+27/01/2004;SO;Livigno Vallaccia;8;2;2;0;0
+31/01/2004;VI;Vajo Battisti Cima Zevola;5;2;0;1;1
+03/02/2004;BZ;Val Giovo - Vipiteno Caspineto;6;1;1;0;0
+19/02/2004;PN;Le Vielle Monte Provagna;6;1;1;0;0
+22/02/2004;CN;Frabosa Sottana ArtesinaColle Bauzana;4;1;0;0;1
+24/02/2004;BL;Porta Vescovo Pizzac Padon Sasso Cappello;3;1;1;0;0
+28/02/2004;BZ;Passo Gardena;6;2;2;0;0
+29/02/2004;BZ;Selva Valgardena Dantercepies;3;0;3;0;0
+29/02/2004;BS;Monte Campione;3;3;3;0;0
+29/02/2004;BZ;Giogobello Plose;3;1;0;0;1
+08/03/2004;TN;Col Rodella;8;2;1;1;0
+08/03/2004;BS;Edolo Motto della Scala;8;2;2;0;0
+11/03/2004;BL;Passo Falzarego;6;2;2;0;0
+12/03/2004;SO;Bormio 3000 Vallone Vallecetta;3;1;0;0;1
+13/03/2004;BZ;Riva di Tures Monte Nevoso;1;1;1;0;0
+14/03/2004;SO;Val GerolaPescegatto Orobie Valtellinesi;3;2;2;0;0
+25/03/2004;BZ;Rif. Bellavista Schmugglerinne;3;2;1;0;1
+04/04/2004;BL;Passo Duran San Sebastiano;2;1;0;0;1
+10/04/2004;BZ;Jacobspitze Alpi Sarentinesi;1;4;3;0;1
+20/04/2004;AO;Ghiacciaio del Mont Frety Monte Bianco;3;1;0;0;1
+20/04/2004;SO;Punta San Matteo OrlesCevedale;2;1;1;0;0
+24/04/2004;UD;Forni Avoltri Monte Coglians;1;1;0;0;1
+01/05/2004;BS;Adamello Cresta Croce;1;2;1;1;0
+12/05/2004;SO;Valdidentro Vallaccia Corta;2;2;2;0;0
+13/05/2004;SO;Bormio Statale dello Stelvio;6;1;1;0;0
+17/07/2004;BL;Cortina d'Ampezzo Monte Cristallo;5;2;0;0;2
+18/12/2004;UD;Monte Forato;1;1;0;1;0
+19/12/2004;BS;Val Paisco;1;1;;1;
+19/12/2004;UD;Monte Bivera;1;1;1;0;0
+26/12/2004;UD;Prasnig-Cacciatore;1;3;3;0;
+28/12/2004;BL;Passo Campolongo;3;1;1;;
+29/12/2004;BL;Passo Padon;3;1;1;;
+30/12/2004;BZ;Alpi Sarentine;1;1;1;;
+30/12/2004;AQ;Prati di Tivo;4;2;;2;
+02/01/2005;SO;Val di Lei;3;1;1;;
+04/01/2005;BZ;Le Odle;5;1;;;1
+06/01/2005;BZ;Valle del Vento;1;7;7;;
+09/01/2005;SO;Cima Piazzi;1;1;1;;
+20/01/2005;ud;Vers. N M. Zermula;1;2;2;0;0
+22/01/2005;Bz;Monte Spico;3;1;1;0;0
+29/01/2005;AO;Col d'Ars;2;3;;1;2
+30/01/2005;PN;Cimon di Resettum;2;1;1;0;0
+05/02/2005;BZ;Slingia;2;2;1;1;
+19/02/2005;Bz;Valle Aurina;1;3;1;1;1
+19/02/2005;BZ;Val di Fleres;1;1;;;1
+09/03/2005;BL;Forcella Cristallo;1;2;;1;1
+10/03/2005;VI;Monte Verena;3;1;1;;
+12/03/2005;CN;Vinadio- C.Varirosa;5;1;0;0;1
+12/03/2005;Bz;Val di Vizze;1;2;1;1;
+13/03/2005;Bz;Valle Lunga;2;2;2;;
+13/03/2005;TO;Punta Basei;5;2;2;;
+19/03/2005;PN;Monte Tremol;2;1;1;0;0
+24/03/2005;BL;Arabba - Portados;3;3;2;1;
+02/04/2005;BZ;Val di Fleres;1;1;;1;
+13/04/2005;BL;Cadini di Misurina;2;2;1;;1
+17/04/2005;BZ;MasoCorto ValSenales;3;1;1;;
+20/04/2005;AO;Percorso Mezzalama;1;1;;1;
+23/04/2005;UD;Monte Canin;5;1;1;0;0
+23/04/2005;SO;Cima S.Giacomo;2;2;2;;
+24/04/2005;BZ;NevesValleRioMolino;1;2;;2;
+15/05/2005;CN;Monviso;5;2;0;0;2
+08/11/2005;TN;Serauta Marmolada;2;1;1;;
+20/11/2005;BZ;Morgenkofel;5;2;2;0;
+03/12/2005;CN;Limone Piemonte;1;1;;1;
+04/12/2005;SO;Motta Grande;1;4;2;2;
+04/12/2005;SO;Pista S.Ambrogio;3;1;1;;
+10/12/2005;BZ;Cima Solda;1;3;3;;
+11/12/2005;BZ;Le Maddalene;2;;;;
+11/12/2005;BL;Monte Pelmo;1;1;1;;
+11/12/2005;SO;Val Febbraro;2;1;1;;
+11/12/2005;UD;Monte Zermula;1;1;1;;
+11/12/2005;UD;Monte Crostis;8;2;0;;2
+11/12/2005;BL;Monte Pelmo;1;;;;
+12/12/2005;BZ;Zentleser Kofl;8;1;1;;
+17/12/2005;BG;Cima di Timogno;2;1;;;1
+18/12/2005;SO;Rin da Gen - Livigno;3;2;1;;1
+30/12/2005;AQ;PRATI DI TIVO;4;2;;2;
+03/01/2006;AO;Colle Menouve (GSB);2;1;;1;
+03/01/2006;TN;M. Ciste gr. Lagorai;8;1;1;0;
+04/01/2006;BZ;Traversata Carnica;5;1;2;;
+04/01/2006;BZ;Schafskopf Va. Lunga;2;1;4;;
+05/01/2006;SO;Val dell'Alpe;3;2;2;;
+19/01/2006;BL;Tre Cime lavaredo -;1;3;2;1;
+21/01/2006;BL;Val Caprara, Pasubio;1;1;1;;
+27/01/2006;Tn;Campregheri;6;2;2;0;0
+28/01/2006;TN;San Martino Castrozz;3;1;1;;
+28/01/2006;BL;Arten Fonzaso;7;1;1;;
+28/01/2006;LC;Piani di Bobbio;8;1;1;;
+29/01/2006;LC;Grignetta;5;1;;;1
+29/01/2006;BS;Punta Almana;8;2;1;1;
+29/01/2006;TN;Moena - Lusia;4;3;;3;
+29/01/2006;TN;C.Paradisi-Caoria;2;2;2;;
+29/01/2006;BG;Colere;3;2;2;;
+01/02/2006;BL;Monte Tamer;1;1;1;;
+04/02/2006;CN;Punta Incianao;1;1;;;1
+04/02/2006;CN;Monte Sibolet;2;3;2;;1
+07/02/2006;SO;Cima delle Mine;3;1;1;;
+19/02/2006;TN;Brentonico;2;1;;;1
+19/02/2006;TN;Storo;1;1;;1;
+20/02/2006;BL;Livinallongo;6;1;1;;
+20/02/2006;TO;Sestriere - Sises;3;0;;;
+20/02/2006;UD;Bila Pec (A. Giulie);8;3;1;;2
+20/02/2006;BZ;cittÖ dei sassi;8;1;1;;
+21/02/2006;SO;Monte Vallecetta;3;1;1;;
+21/02/2006;CN;Argentera;2;1;;;
+21/02/2006;TO;Bardonecchia;3;2;2;;
+21/02/2006;BL;Faloria- Cortina;4;1;;1;
+23/02/2006;BG;Colere;3;2;2;;
+25/02/2006;BL;Arabba;3;1;1;;
+25/02/2006;CN;Argentera;3;0;;;
+25/02/2006;BZ;Lappago;2;1;;1;
+26/02/2006;SO;Vallaccia - Livigno;3;1;;;1
+26/02/2006;AO;Punta Bettolina;3;1;;1;
+26/02/2006;BZ;Val Giovo;2;1;;;1
+26/02/2006;CN;Vallone di Bellino;8;1;;1;
+26/02/2006;AO;Pila - Couiss 1;3;1;1;;
+26/02/2006;BL;Alpago;1;3;;;
+26/02/2006;BZ;Val Rosim Solda;3;1;;;1
+27/02/2006;TO;Rio Nero;3;0;;;
+03/03/2006;TN;Gruppo di Brenta;2;2;1;1;
+03/03/2006;CN;Artesina;1;20;20;;
+03/03/2006;CN;M.Bisalta;2;1;1;;
+05/03/2006;BS;Monte Serodine;3;1;1;;
+05/03/2006;CN;Argentera Bersezio;8;1;;1;
+05/03/2006;TO;M.Cotolivier;1;1;;1;
+05/03/2006;BL;Arabba;3;1;;;1
+05/03/2006;SO;Monte Vallecetta;3;2;;;
+05/03/2006;SO;Monte Serodine;3;1;1;;
+05/03/2006;TO;M. Jafferau;3;0;;;
+06/03/2006;BZ;Dobbiaco;2;1;;1;
+07/03/2006;Tn;Fravort;2;1;;;1
+08/03/2006;BZ;Val di Mazia;1;1;;;1
+08/03/2006;BZ;Val Casies;1;2;1;1;
+17/03/2006;CN;Crissolo;1;1;;;1
+25/03/2006;CN;Monte Freide;1;2;1;1;0
+25/03/2006;TN;Primiero-PaleS.Mart.;1;3;;3;
+26/03/2006;SO;Monte Alpisella;2;1;1;;
+26/03/2006;TN;Daone-M.gaBoazzo;5;1;;;1
+01/04/2006;AO;Rif. Torino;3;1;0;1;
+02/04/2006;SO;M.Vallecetta;3;2;2;;
+09/04/2006;SO;Monte Forcellina;2;1;1;;
+09/04/2006;TN;Marmolada;2;1;0;1;0
+11/04/2006;BZ;Val Martello;1;4;1;;3
+12/04/2006;AO;Col d'Orein;2;2;;2;
+12/04/2006;AO;Platta Grevon-PILA;3;2;2;0;
+10/05/2006;SO;Punta San Matteo;2;1;;1;
+11/05/2006;SO;Cime di Pejo;1;4;3;1;
+10/12/2006;AO;Cervinia (Teodulo);3;0;0;0;0
+03/01/2007;TN;Val S. Nicolï;2;0;0;0;1
+03/01/2007;SO;Livigno;3;2;2;;
+04/01/2007;AO;Gressoney L.T-Zitten;3;2;2;0;0
+06/01/2007;AO;LaThuile (Belvedere);3;0;0;0;0
+06/01/2007;BZ;Val Passiria/ Plan;5;1;0;0;1
+06/01/2007;Bz;Val Senales;8;1;1;;
+06/01/2007;SO;Val Alpisella;1;3;3;;
+06/01/2007;VC;Alagna;3;4;3;1;
+07/01/2007;AO;GSBernardo-ColSerena;1;5;5;0;0
+26/01/2007;AO;Cogne - Rif. Sella;2;1;0;1;0
+27/01/2007;BL;Passo Fedaia;3;1;;1;
+27/01/2007;SO;M.Pedena - Albaredo;1;5;4;;1
+28/01/2007;BZ;Monte Spico;3;3;1;2;
+09/02/2007;AO;M.Bianco-C.Gigante;3;1;0;0;1
+15/02/2007;AO;M.Bianco - Toula;3;4;4;0;0
+15/02/2007;SO;Val Caronella;1;1;;1;
+02/03/2007;CN;Valle Stura;2;7;7;0;0
+04/03/2007;VC;Alagna;3;7;7;0;0
+04/03/2007;BZ;Valle Aurina;1;4;4;0;
+05/03/2007;SO;Vedretta Cristallo;2;1;1;;
+10/03/2007;SO;M.Pedena - Albaredo;1;2;1;1;
+11/03/2007;BL;M. Pelmo F.lla Rossa;1;3;;3;0
+11/03/2007;bl;Forcella Camin;2;2;;;2
+11/03/2007;AO;ValdiRhemes-Entrelor;2;3;3;0;0
+11/03/2007;BZ;S. Candido;1;1;;1;
+12/03/2007;SO;Cima Solda;2;1;;1;
+25/03/2007;BZ;P.taBeltovo di fuori;8;1;;1;
+26/03/2007;AO;Bionaz-Becca Rayette;1;6;6;0;0
+01/04/2007;BZ;Perca Val Pusteria;2;1;;1;
+06/04/2007;AO;ValsavarencheRChabod;1;4;4;0;0
+06/04/2007;AO;Pila-PuntaValletta;3;1;1;0;0
+08/04/2007;AO;Valgrisenche-Giasson;2;1;0;1;0
+14/04/2007;SO;M.Foscagno - Livigno;2;1;1;;
+06/05/2007;AO;M.Bianco-C.le Toula;3;4;3;1;0
+06/01/2008;BL;Val Biois Laresei-C. Pradazzo;3;1;1;0;0
+06/01/2008;CN;Limonetto - Forte Pernante;3;1;0;1;0
+06/01/2008;TO;Usseaux - Francoise Pelouxe;1;1;1;0;0
+06/01/2008;BL;Val Biois - Forcella Pradazzo;3;1;1;0;0
+12/01/2008;SO;Val Federia - Livigno;3;4;2;0;2
+13/01/2008;SO;Colmenetta - Madesimo;3;3;3;0;0
+13/01/2008;BZ;Val Senales - Lazaun;3;1;0;1;0
+13/01/2008;BS;Dosso dei Galli - Collio Val Trompia;8;11;7;0;4
+13/01/2008;TN;Doss de la PÇsa;3;1;0;0;1
+14/01/2008;VC;Valsesia - Val Otro;2;3;3;0;0
+18/01/2008;SO;Val Cantone - Livigno;3;1;;0;1
+19/01/2008;AO;Champorcher - Gran Comba;3;1;1;0;0
+20/01/2008;BL;Arabba - Soura Sass;3;1;1;0;0
+24/02/2008;BZ;Val Passiria;2;1;1;0;0
+24/02/2008;AO;Brusson - Palasinaz;2;1;1;0;0
+11/03/2008;BL;Val Boite - Tofane F.lla Rossa;8;1;1;0;0
+13/03/2008;AO;Valle Gran San Berna;1;1;0;1;0
+15/03/2008;BZ;San Martino in Badia - Wasserscharte;2;1;1;0;0
+25/03/2008;AO;Courmayeur Dolonne;3;1;0;1;0
+26/03/2008;AO;Ayas - Gran Cima;2;1;0;1;0
+26/03/2008;SO;Val Cantone - Livigno;3;1;1;0;0
+29/03/2008;BZ;Val Senales - Val delle Frane;3;2;1;1;0
+08/04/2008;SO;M.Vallecetta - Bormio 3000;3;1;1;0;0
+12/04/2008;AO;Bionaz-Rif. Nacamuli;1;2;0;1;1
+13/04/2008;VB;Alpe Devero - Colle Marani;1;3;1;2;0
+16/04/2008;TN;Adamello-Presena Cima Payer;1;1;1;0;0
+19/04/2008;CN;Valle Stura - Testa di Costabella del Piz;2;1;1;0;0
+20/04/2008;BZ;Kasere - Valle Aurina;2;1;0;0;1
+24/04/2008;AO;Valgrisenche - Torrent du Geis;1;1;0;1;0
+30/04/2008;TO;Valle Orco - Punta Basei;1;6;0;1;5
+06/05/2008;AO;Valpelline - Rif AO;1;1;0;0;1
+19/06/2008;AO;Val d'Ayas - Castore;5;5;0;5;0
+15/07/2008;AO;Val Ferret - M. Dolent;5;3;0;3;0
+15/11/2008;TN;Gruppo Dolomiti Brenta-scivolo nord cima Brenta;2;1;0;1;0
+01/12/2008;BZ;Val d'Ultimo - Pawigl;6;1;1;0;0
+06/12/2008;BI;Alpi Biellesi - Monte Mucrone;8;1;0;1;0
+06/12/2008;TO;Valle Susa - Vallone Rio Nero;3;1;0;1;0
+06/12/2008;AO;Valtournenche - verso la Grande Dent;1;3;2;1;0
+07/12/2008;AO;Gran San Bernardo - Monte Paglietta;2;1;1;0;0
+07/12/2008;TO;Valle Pellice, Monte Granero;1;4;0;0;4
+10/12/2008;BL;strada Passo Fedaia;6;1;1;0;0
+12/12/2008;BZ;Brunico - Plan de Corones;3;1;0;1;0
+14/12/2008;LC;Grignetta - Cresta Cermenati;5;1;0;1;0
+14/12/2008;SO;Valchiavenna - Val dei Ratti - Loc. Frasnedo;8;1;0;1;0
+15/12/2008;TO;Val Soana - Roccia Bianca - Grangia Randonero;8;1;0;0;1
+16/12/2008;TO;Val Chisone - Fenestrelle;6;1;1;0;0
+20/12/2008;BZ;Alpi Sarentine - punta Cervina;1;2;2;0;0
+21/12/2008;TN;P.sso Sella;6;1;0;1;0
+24/12/2008;BL;Strada P. Campolongo;6;1;1;0;0
+18/01/2009;BG;Valseriana C di Grem;2;1;0;1;0
+20/01/2009;BL;Strada Passo Giau;6;2;2;0;0
+20/01/2009;BL;Strada Misurina;6;1;1;0;0
+21/01/2009;TN;Ciampedie- pista Cigolade;4;4;2;2;0
+22/01/2009;SO;Valfurva - Monte Vallecetta;3;1;1;0;0
+22/01/2009;BZ;Campo Tures - Monte Spico;3;1;0;1;0
+22/01/2009;BL;Faloria - Stratondi;4;2;2;0;0
+25/01/2009;BZ;Val Senales;3;1;0;1;0
+25/01/2009;BL;Ra Vales - Cortina;3;1;1;0;0
+31/01/2009;CN;Valle Stura di Demonte - Cima delle Lose;1;5;4;1;0
+31/01/2009;BL;Strada Arabba;6;3;3;0;0
+03/02/2009;BL;Palantina;1;2;2;0;0
+03/02/2009;BS;Ponte di Legno - Tonale - Vallazza;3;1;0;0;1
+04/02/2009;TN;Cima Littegosa - Lagorai;1;1;0;1;0
+04/02/2009;VI;Passo Campogrosso;6;1;0;1;0
+07/02/2009;AO;Val d'Ayas - pista Sarezza;3;1;1;0;0
+07/02/2009;SO;Valchiavenna - SS36 - Km 130;6;3;3;0;0
+07/02/2009;TN;Cima Nassere;1;10;10;0;0
+08/02/2009;TO;Val Sangone - Monte Uia;1;2;1;1;0
+08/02/2009;SO;Val Gerola - Cima della Rosetta;2;2;1;0;1
+08/02/2009;BI;Valle di Oropa - Monte Becco;8;1;0;1;0
+09/02/2009;BZ;Alpe di Siusi;1;1;0;1;0
+09/02/2009;AO;Valnontey - Cascata Valmiana;5;2;0;1;1
+09/02/2009;SO;Valdisotto - S.Colombano;1;3;3;0;0
+11/02/2009;AO;Valgrisenche - Mont Cornet - Becca CÇrÇ;3;1;0;1;0
+11/02/2009;BG;Valseriana - Cima di Grem;1;1;0;1;0
+15/02/2009;BZ;Solda;5;2;0;1;1
+19/02/2009;AO;Pila - Platta de Grevon-Quiss I;3;1;0;1;0
+22/02/2009;CN;Val Varaita - Chianale;6;2;2;0;0
+25/02/2009;BZ;Dobbiaco - Corno di Fana;2;2;1;0;1
+27/02/2009;AO;Valeille - Cascata Pattinaggio Artistico;5;3;1;2;0
+28/02/2009;BZ;Lago di Braies - Picco di Valandro;1;2;0;1;0
+28/02/2009;BZ;Val Martello - Punta di Lasa;2;2;0;0;2
+01/03/2009;BL;Pala Alta - Gruppo Schiara;5;2;0;0;2
+07/03/2009;BL;Faloria - Pala del Moro;3;3;2;1;0
+07/03/2009;TN;Cima Paganella;3;2;1;0;1
+07/03/2009;TN;Monte Pasubio - Val del Fieno;8;4;1;2;1
+07/03/2009;VI;Val Galmarara Altipiano Asiago;8;1;0;0;1
+14/03/2009;CO;Cima della Duaria;8;2;0;1;1
+19/03/2009;CN;Limonetto - M.te Creusa - P.so Giosolette;2;2;2;0;0
+30/03/2009;BZ;Curon Venosta - Valle Lunga - Valbenair;1;3;2;1;0
+30/03/2009;AO;Courmayeur - Ghiacciaio Thoula;3;1;1;0;0
+02/04/2009;BZ;Valle Lunga - Palla Bianca;1;3;3;0;0
+13/04/2009;VB;Alpe Devero - Canale Ferrari - Monte Cervandone;1;5;2;3;0
+25/04/2009;BZ;Solda - Gran Zebru;1;6;0;6;0
+25/04/2009;BZ;Val d'Ultimo - Cima Sternai;1;2;2;0;0
+01/05/2009;BZ;Val di Mazia - Rems Spitz;2;1;0;0;1
+01/05/2009;TN;Marmolada-Pian dei Fiacconi (est Schena de Mul);8;2;0;1;2
+01/05/2009;SO;S.Colombano - Valdisotto;1;3;2;1;0
+01/05/2009;SO;Corno S.Colombano - Valdisotto;2;2;2;0;0
+02/05/2009;BZ;Curon - Vallelunga;1;11;8;3;0
+02/12/2009;BL;Monte Pore-;2;1;0;0;1
+05/12/2009;BZ;S. Cristina Val Gardena - Seceda;4;1;1;0;0
+09/12/2009;BZ;Sarentino - Pichlberg;2;1;1;0;0
+21/12/2009;TN;P.sso Sella;6;1;0;1;0
+23/12/2009;BL;Laresei;3;1;0;1;0
+23/12/2009;BL;Passo Valles;6;3;3;0;0
+25/12/2009;BZ;Val Senales;8;1;1;0;0
+25/12/2009;SO;Livigno - strada Passo Foscagno;6;3;2;1;0
+26/12/2009;TN;Canazei - Valon del Fos;2;7;1;2;4
+26/12/2009;TN;Canazei - Val Lasties;5;2;0;0;2
+26/12/2009;BZ;Solda;3;3;1;1;1
+27/12/2009;AO;Gressoney-La-TrinitÇ - Vallone della Salza;3;1;1;0;0
+31/12/2009;AO;Gressoney-La-Trinitä - Colle del Rothorn;1;3;1;1;1
+02/01/2010;AO;Cogne - Valeille - Cascata Cold Couloir;5;1;0;1;0
+08/01/2010;AO;Valnontey - Cascata Sentiero dei Troll;5;1;0;0;1
+09/01/2010;BI;Alpi Biellesi - Monte Mucrone (Costa Muanda);2;1;1;0;0
+09/01/2010;TO;Val Chisone (Sestriere) - Monte Banchetta;3;6;6;0;0
+10/01/2010;BG;Monte Toro - Foppolo;1;2;2;0;0
+16/01/2010;UD;Gruppo del Montasio - Forca della Val;2;2;2;0;0
+22/01/2010;BL;Monte pelmo - Val d'Arcia;1;1;1;0;0
+24/01/2010;BL;Malga Caleda - Passo Duran;8;1;0;1;0
+27/01/2010;TO;Valle Susa (Sauze d'Oulx) M.te Genevris;2;1;0;1;0
+28/01/2010;BZ;Val Martello - Lyfispitz;2;1;0;1;0
+29/01/2010;UD;Alpi Carniche - Monte Clap Savon;1;2;2;0;0
+30/01/2010;AQ;Gran Sasso - Campo Imperatore;5;3;1;0;2
+30/01/2010;UD;Sella Nevea - Monte Golovec;1;1;1;0;0
+30/01/2010;BL;Alpago - Cima Vacche;1;3;3;0;0
+31/01/2010;TV;Monte Grappa;8;1;0;1;0
+06/02/2010;VI;Campogrosso - Casaretta;1;3;0;3;0
+06/02/2010;TV;Monte Grappa - Strada Provinciale 149;6;1;1;0;0
+06/02/2010;AO;Gran San Bernardo - Vallone di Barasson;2;7;7;0;0
+06/02/2010;VR;Monte Baldo;3;3;0;1;2
+06/02/2010;BI;Alpi Biellesi - Piedicavallo - Valle Cervo;2;1;0;1;0
+06/02/2010;TO;Val Pellice - Angrogna - Giasset;1;1;1;0;0
+06/02/2010;UD;Monte Cacciatore (Croce del Poverello);1;6;4;2;0
+06/02/2010;BL;Monte Guslon - Val Bona;1;3;3;0;0
+06/02/2010;LC;Passo Gandazzo - Introbio;8;1;0;0;1
+07/02/2010;BG;Lizzola - Valbondione;3;1;0;1;0
+07/02/2010;TN;Piz Boä;2;1;1;0;0
+07/02/2010;BG;Monte Grem - Oltre il Colle;2;1;0;0;1
+07/02/2010;CO;Costone del Bregagno - Menaggio;8;2;1;0;1
+07/02/2010;TN;Vigolana - val dell'acqua;5;1;0;1;0
+07/02/2010;BZ;Merano 2000;1;1;1;0;0
+07/02/2010;BG;Carisole - Carona;3;1;1;0;0
+07/02/2010;BL;Val Visdende - F.lla Dignas;1;1;0;0;1
+07/02/2010;CO;Monte S.Primo;2;1;1;0;0
+07/02/2010;BL;Alpago - Forcella Palantina Alta;2;3;1;1;1
+08/02/2010;SO;Madesimo;3;2;2;0;0
+09/02/2010;UD;Monte Cacciatore (anticima E);1;1;1;0;0
+12/02/2010;BL;Val Visdende;2;1;0;0;1
+13/02/2010;VI;Monte Grappa;1;2;1;1;0
+13/02/2010;BL;Passo Pordoi - Col del Cuc;3;1;1;0;0
+13/02/2010;CN;Valle Gesso - M.te Merqua;2;1;0;0;1
+14/02/2010;UD;Monte Pramaggiore- Passo di Suola- Rif. Pacherini;2;1;1;0;0
+14/02/2010;UD;Gruppo del Coglians - Monte Floriz;2;1;0;1;0
+14/02/2010;TN;valle Aperta- gruppo Adamello;1;1;0;1;0
+19/02/2010;SO;La Rocca - Bormio 2000;3;1;1;0;0
+19/02/2010;BS;Aprica Baradello;3;1;1;0;0
+19/02/2010;BG;Rifugio Albani - Presolana;8;2;1;0;1
+20/02/2010;UD;Monte Lussari - staz. intermedia cabin. Camporosso;8;1;1;0;0
+20/02/2010;TO;Valle Susa (Bousson) - Monte Begino;1;1;1;0;0
+20/02/2010;BZ;Val Ridanna - Einachspitze;1;2;2;0;0
+20/02/2010;BZ;Sesto - Monte Elmo;2;2;1;0;1
+20/02/2010;BG;Monte Rambasi - Lizzola;1;3;3;0;0
+20/02/2010;TN;Dosso Larici - Pozza de Fer;8;3;1;1;1
+20/02/2010;SO;S.Ambrogio - Bormio 2000;3;3;3;0;0
+20/02/2010;AO;Valtournenche - Monte Roisetta;3;1;0;0;1
+21/02/2010;BZ;Sesto - Passo m.te Croce;1;1;0;0;1
+21/02/2010;BL;Faloria (pista da sci stratondi) - Cortina;3;1;1;0;0
+21/02/2010;BG;Lago Nero - Foppolo;1;1;1;0;0
+21/02/2010;SO;Monte Olano - Val Gerola;2;2;1;0;1
+21/02/2010;SO;Grasso di Bocolina - Valfurva;3;2;1;0;1
+21/02/2010;SO;Val dell'Alpe - Valfurva;3;1;1;0;0
+25/02/2010;TN;val Jumela- Fassa;3;8;8;0;0
+26/02/2010;BG;Montebello - Foppolo;3;2;2;0;0
+27/02/2010;BZ;Sarentino - Cima Rodella;1;1;0;1;0
+27/02/2010;BL;Col de Varda - Misurina;1;1;1;0;0
+27/02/2010;BL;Tofane - Pista da sci Forcella Rossa Cortina;4;1;0;1;0
+28/02/2010;TN;val d'Ambiez cima Ceda;1;1;0;0;1
+28/02/2010;BZ;Sesto Pusteria - Sandbuehl;8;2;0;0;2
+01/03/2010;TN;Val di Pejo cima Boai;2;1;0;1;0
+01/03/2010;BL;Passo Fedaia Strada Provinciale 241;6;1;1;0;0
+01/03/2010;AO;Monte Bianco - zona Toula;3;1;0;0;1
+06/03/2010;UD;A. Giulie, Monte Strugova, Canalone della Strugova;5;4;3;1;0
+07/03/2010;BZ;Val Giovo - Zinseler;2;1;1;0;0
+10/03/2010;VI;Pasubio - Boale;1;1;0;1;0
+12/03/2010;BZ;Sennes - Munt de Sella;1;1;1;0;0
+13/03/2010;BL;Passo pordoi - Sass Pordoi;3;1;0;1;0
+14/03/2010;BZ;Passo Furcia - Slapadures;2;1;1;0;0
+14/03/2010;UD;Prea. Carniche-Valle di Suola-Cresta di Rua;2;2;1;0;1
+14/03/2010;BZ;Val Casies - Prueglers Kunke;1;1;0;1;0
+14/03/2010;BZ;Gruppo del Cristallo - Schoenleitenschneide;2;4;0;4;0
+14/03/2010;TN;Monte Bondone - Cima Verde;1;1;1;0;0
+16/03/2010;VB;Val Formazza - Nodo del M.Giove - Punta Clogstafel;1;2;2;0;0
+20/03/2010;BZ;Passo Gardena;6;1;1;0;0
+20/03/2010;BZ;Sennes - Col Bechei;1;1;0;0;1
+21/03/2010;BZ;Slingia - Rif . Sesvenna;2;2;1;1;0
+23/03/2010;VI;Monte Carega - Bocchetta dei Fondi;1;2;0;2;0
+26/03/2010;AO;Courmayeur - Val Veny;3;1;0;0;1
+27/03/2010;CN;Valle Po - Canale Due Dita;1;3;2;1;0
+27/03/2010;BZ;Val di Roja - Cima Dodici;1;2;1;0;1
+27/03/2010;UD;Prealpi Carniche - Cima dei Pecoli;1;3;3;0;0
+28/03/2010;AO;Val di Rhemes - Punta Paletta;1;3;0;1;1
+28/03/2010;VI;Campomolon - Strada Provinciale 92 dei francolini;8;1;0;1;0
+29/03/2010;BZ;Slingia - Piz Rasass;1;2;0;1;1
+31/03/2010;SO;Grasso Bocolina - Valfurva;3;1;1;0;0
+31/03/2010;AO;Becca di Nona;2;1;1;0;0
+02/04/2010;TN;Cima Bocche - Paneveggio Lusia - Val di Fiemme;5;1;0;0;1
+02/04/2010;BZ;Solda Punta del Coston;2;3;0;1;2
+03/04/2010;BZ;Curon Venosta - Mitterlochspitze;2;2;2;0;0
+05/04/2010;AO;Val Ferret - Col Petit Ferret;1;1;0;0;1
+05/04/2010;BL;Ra Vales - Canalino del prete;3;1;0;1;0
+05/04/2010;BG;Carona;3;1;1;0;0
+05/04/2010;CO;Monte Bregagno;8;1;0;0;1
+06/04/2010;BZ;Chiusa - Cima San Cassiano;1;1;0;0;1
+10/04/2010;SO;Passo di Cedec - Valfurva;1;4;4;0;0
+11/04/2010;BZ;Sesto Pusteria - Val Fiscalina;2;3;3;0;0
+16/05/2010;BL;Tofana di Rozes;1;2;1;0;1
+23/05/2010;TO;Valle Susa (Exilles) - Loc. La Grangia;2;2;1;1;0
+31/05/2010;AO;Val di Cogne - Gran Serz;2;1;0;1;0
+02/10/2010;TN;Dolomiti di Brenta - scivolo nord di Cima Brenta;1;2;2;0;0
+21/11/2010;BS;Pista Paradiso - Passo Tonale;4;10;7;3;0
+21/11/2010;BG;Rifugio Curï - Valbondione;8;2;0;1;1
+27/11/2010;RE;Appennini Emiliani: Monte Cusna - localitÖ Passone;8;2;0;0;2
+27/11/2010;BS;Motto della Scala - Edolo;8;4;1;0;3
+29/11/2010;CO;La Corvegia - Montemezzo;2;1;1;0;0
+03/12/2010;TN;Passo S.Pellegrino - Cima Margherita;3;1;0;1;0
+04/12/2010;BZ;Alta Val Venosta - Cima Undici Hoferloch;8;1;0;0;1
+04/12/2010;BL;Monte Serva Croda del Sal;2;1;0;1;0
+05/12/2010;TN;Monte Altissimo - sentiero rif. Damiano Chiesa;8;4;4;0;0
+08/12/2010;VC;Val Sesia - Loc. Malfatta - Canale Miniere;3;1;0;0;1
+12/12/2010;BS;Val Malza - Ponte di Legno;1;1;0;1;0
+22/12/2010;AO;PrÇ-Saint-Didier - Vallone dell'Arpettaz;2;1;1;0;0
+28/12/2010;AO;Valtournenche - Cime Bianche Pista n. 5 Canestrini;4;6;5;1;0
+29/12/2010;BG;Carisole - Carona;3;2;2;0;0
+29/12/2010;LC;Canalone Porta - Grignetta;5;2;0;2;0
+29/12/2010;TN;Passo Tonale - Valbiolo;3;1;1;0;0
+10/01/2011;AO;Courmayeur - Val Veny - Bois de Visaille;3;1;0;0;1
+13/01/2011;BZ;Trafoi - Forcola;8;2;2;0;0
+14/01/2011;BZ;Col Bechei;1;1;0;1;0
+15/01/2011;TO;Valle dell'Orco - Costiera dell'Uja;2;1;0;1;0
+21/01/2011;VB;Val Formazza - Toggia;8;1;1;0;0
+29/01/2011;BZ;Val di Fleres - Seeberspitze;2;1;0;1;0
+30/01/2011;GE;Val d'Aveto - pendici del Monte Bue;3;1;0;0;1
+06/02/2011;AO;Mont Emilius - Colle dei capuccini;1;2;1;1;0
+07/02/2011;BZ;Alta Venosta - Piz Lad;2;1;1;0;0
+11/02/2011;TO;Alta Valle Susa - Gran Roc;3;1;1;0;0
+19/02/2011;BZ;Val d'Ultimo - Ilmenspitze;1;1;0;0;1
+25/02/2011;AQ;Aremogna - Roccaraso;3;3;1;2;0
+26/02/2011;BL;Creta Forata - Sappada;2;1;1;0;0
+26/02/2011;SO;Pizzo Biorco - Piateda;1;1;1;0;0
+26/02/2011;BZ;Val Senales - Schwemser;2;1;1;0;0
+26/02/2011;TN;Val Campelle - C.ma Lasteati;2;1;1;0;0
+26/02/2011;SO;Lago Scarolda - Valmalenco;1;1;1;0;0
+26/02/2011;AO;Valtournenche - sentiero sotto Becca Trecare;3;2;0;1;1
+26/02/2011;BZ;val Martello - Schranspitze;1;2;1;1;0
+26/02/2011;BL;Sasso Bianco Rio Val Molino;1;1;0;0;1
+01/03/2011;AO;Val di Gressoney - verso Passo Zube;1;1;1;0;0
+03/03/2011;AO;Saint-Rhemy-en-Bosses - Costa di Serena;1;1;1;0;0
+05/03/2011;TO;Colle della Maddalena-;6;1;1;0;0
+05/03/2011;TO;Valle Susa - Monti della Luna - Sagnalonga;3;1;0;1;0
+06/03/2011;CN;Gias Vej - Elva;8;2;1;1;0
+06/03/2011;BI;Valle Cervo - Monte Camino;3;13;5;6;2
+06/03/2011;BL;Monte Tamer -Van delle Forcelle;1;5;4;1;0
+06/03/2011;AO;Ayas - tra Col Vascotchaz e Mont Facebelle Nord;2;1;0;1;0
+17/03/2011;BZ;val Senales - Pista Grawand;1;2;2;0;0
+17/03/2011;TO;Valle Susa (Sauze d'Oulx) M.te Triplex-Rocca Nera;3;1;1;0;0
+18/03/2011;AO;Cogne - Vallone Urtier - sotto Lac de Loie Nord;1;2;0;2;0
+19/03/2011;SO;La Pessa - Piateda;8;1;0;0;1
+20/03/2011;UD;Sella Nevea - Conca Prevala;2;1;1;0;0
+20/03/2011;BZ;val Senales - zona Teufelsegg;3;1;1;0;0
+22/03/2011;SO;Vallone Vallecetta - Valdisotto;3;1;1;0;0
+31/03/2011;AO;Valgrisenche - Feleuma - Vallon de Maison Forte;3;2;2;0;0
+02/04/2011;BZ;Valle Aurina - Collalto;2;3;3;0;0
+03/04/2011;AO;Valtournenche - Mont Roisetta;1;1;0;1;0
+01/05/2011;BL;Monte Antelao - Cima Fanton;1;1;0;1;0
+10/11/2011;TN;Serauta - Marmolada;1;1;1;0;0
+13/11/2011;CN;Valle Po - Canale Due Dita;1;2;2;0;0
+04/12/2011;TO;Valle Orco - Costiera dell'Uja;2;2;1;1;0
+08/12/2011;TN;Val di Fassa - Marmolada Punta Penia;5;3;1;2;0
+08/12/2011;SO;Vallaccia Corta;1;1;1;0;0
+09/12/2011;TN;Val Rendena - Madonna di Campiglio cima Grostä;5;1;0;1;0
+18/12/2011;BZ;Val di Fleres - Monte Muro;2;1;1;0;0
+24/12/2011;BG;Monte Madonnino - Carona;5;2;0;2;0
+27/12/2011;SO;Pizzo Cantone - Livigno;2;1;1;0;0
+27/12/2011;BZ;Val di Racines - cima alta di Montecroce;2;1;0;1;0
+03/01/2012;BZ;Val di Fleres - Bodnerberg;2;3;3;0;0
+03/01/2012;UD;Monte Lussari;3;1;1;0;0
+04/01/2012;TO;valle susa-monte Sises Sestriere;2;1;1;0;0
+10/01/2012;BZ;Racines - Schloterjoch;2;1;1;0;0
+04/02/2012;BZ;Valle di Anterselva - Passo Stalle;2;2;0;0;2
+05/02/2012;BG;Montebello - Foppolo;1;1;1;0;0
+06/02/2012;BZ;Sesvenna - Schwarze Wand;1;4;0;4;0
+08/02/2012;AO;Valdigne - Testa dei Fra - lato Vertosan;2;2;1;1;0
+08/02/2012;SO;Vallone Vallecetta - Valdisotto;3;1;1;0;0
+08/02/2012;BZ;Velturno - Cima del Pascolo;2;1;0;1;0
+10/02/2012;TO;Valle Susa-Cima Appenna;3;1;0;0;1
+13/02/2012;SO;Vallone Vallecetta;3;1;1;0;0
+16/02/2012;SO;Chiesina S.Colombano - Valdisotto;1;2;2;0;0
+17/02/2012;AO;Monte Bianco - Punta Helbronner - Canale del cesso;3;1;0;1;0
+18/02/2012;BL;Monte Cristallo - Canale Bernardi - Cortina;1;2;0;0;2
+18/02/2012;VB;Val Formazza - Corno Brunni;2;3;3;0;0
+19/02/2012;BZ;Valle Aurina - Sattelspitz;2;1;0;1;0
+20/02/2012;BZ;Val di Fleres - Lotterscharte;1;1;0;1;0
+21/02/2012;BZ;Valle Aurina - Monte Chiusetta;3;1;1;0;0
+15/03/2012;BZ;Valle Aurina - Casere - Heilig Geist Joch;2;1;1;0;0
+21/03/2012;BZ;Valle Aurina - Rauchkofel;2;1;1;0;0
+25/03/2012;BZ;Solda - Ortles parete nord;5;4;0;2;2
+25/03/2012;BZ;Val di Fleres - Cime Bianche di Telves;2;1;1;0;0
+12/04/2012;SO;Pizzo Suretta - Madesimo;3;1;1;0;0
+12/04/2012;SO;Vallone Vallecetta - Valdisotto;3;3;3;0;0
+12/04/2012;BZ;Val di Fleres - Schneetalscharte;1;1;0;1;0
+16/04/2012;AO;Valsavarenche - colle del Gran Paradiso;1;4;4;0;0
+17/04/2012;AO;Val d'Ayas - colletto Punta Centrale Breithorn;2;3;3;0;0
+17/04/2012;TO;Valsavarenche - canale sotto col Basei;2;1;1;0;0
+20/04/2012;AO;Valgrisenche - Vallone Grand Revers;3;2;1;0;1
+21/04/2012;CN;valle vermenagna-punta Campaola;1;1;1;0;0
+25/04/2012;TN;Val dei Mocheni - Gronlait;2;1;0;1;0
+28/04/2012;BZ;Solda - Val Rosim;3;1;1;0;0
+28/05/2012;BZ;Solda - Parete Nord dell'Ortles;5;6;2;4;0
+25/06/2012;BZ;Solda - Gran Zebró;5;2;1;0;1
+13/09/2012;SO;Ghiacciaio Dosegó - Valfurva (SO);5;2;2;0;0
+15/10/2012;SO;Punta degli Spiriti - Passo Stelvio - Bormio;8;2;2;0;0
+28/11/2012;BS;Pista Paradiso - Passo Tonale;3;3;1;2;0
+30/11/2012;BZ;Solda - Val Rosim;3;3;2;1;0
+08/12/2012;TO;Alta val Susa-Vallone Rio Nero;3;4;3;0;1
+09/12/2012;UD;Monte Coglians;1;1;1;0;0
+15/12/2012;BS;Val di Casola - Temó;1;2;0;0;2
+16/12/2012;BZ;Trafoi - M.te di Tarres;1;2;1;1;0
+16/12/2012;TO;Alta Val Susa-M.te Corbioun;2;2;0;1;1
+16/12/2012;TO;Alta Valle Susa - Col Basset;3;1;1;0;0
+16/12/2012;SO;Grasso Bocolina - Valfurva;3;1;1;0;0
+16/12/2012;CN;Valle Stura - Alpe di Rittana;2;4;3;1;0
+16/12/2012;TO;Settimo Vittone-Monte Cavalgrosso;8;3;3;0;0
+21/12/2012;TN;monte Cengledino;1;3;3;0;0
+23/12/2012;CN;Val Vermenagna-Palanfrä-Vallone Alberghi;1;3;2;1;0
+23/12/2012;TN;passo San Pellegrino - cima Uomo;8;1;1;0;0
+27/12/2012;SO;Vallone Vallecetta - Valdisotto;3;1;0;1;0
+28/12/2012;BZ;Rio Molino - Monte Cuzzo;3;3;3;0;0
+29/12/2012;BZ;Solda - cima Beltovo di fuori;3;3;3;0;0
+29/12/2012;BZ;Val Senales - Teufelsegg;3;1;1;0;0
+30/12/2012;BZ;Alta Venosta - Roja - Dosso di Dentro;2;1;1;0;0
+31/12/2012;BZ;Val Sarentino - Hîrtlahner;2;1;0;1;0
+02/01/2013;BZ;Valle Aurina - Rio Bianco - Henne;1;2;2;0;0
+04/01/2013;LC;Zucco Ghignoli - Pasturo;5;2;1;0;1
+05/01/2013;TN;val di Fassa - cima Uomo, passo Cirelle;1;2;1;1;0
+05/01/2013;SO;Pizzo Umbrail - Valdidentro;1;1;0;1;0
+06/01/2013;TN;Val di Fiemme - lago delle Buse;1;2;0;0;2
+17/01/2013;AQ;Raccaraso - Monte Pratello;3;2;0;0;2
+17/01/2013;AO;La Thuile - Mont Freduaz;3;1;1;0;0
+17/01/2013;BZ;Valle Aurina - Predoi;4;2;2;0;0
+18/01/2013;AO;Gran San Bernardo - Vallone di Barasson;2;1;1;0;0
+20/01/2013;BL;Casera Razzo;2;2;0;1;1
+22/01/2013;BL;Soura Sass - Arabba;3;1;0;0;1
+25/01/2013;UD;Valle del But - Cima Avostanis;2;1;1;0;0
+25/01/2013;UD;Val Raccolana - Monte Forato;2;1;0;1;0
+26/01/2013;BL;Forcella Verde - Monte Cristallo Cortina;2;3;1;0;2
+29/01/2013;AO;Valgrisenche - Arp Vieille;2;1;1;0;0
+02/02/2013;BL;"Sappada cascata ""Specchio di Biancaneve""";5;3;1;2;0
+03/02/2013;BZ;Val Gardena, Ortisei, Monte Pic;2;1;0;0;1
+12/02/2013;BZ;Brunico - Plan de Corones;3;2;0;1;1
+13/02/2013;VC;Val Sesia-Alagna-Passo della coppa;3;1;1;0;0
+24/02/2013;AQ;Roccaraso - Aremogna;3;1;0;0;1
+24/02/2013;UD;Monte Lussari- staz. intermedia cabin. Camporosso;3;1;1;0;0
+25/02/2013;UD;VALLE DEL BUT - MONTE ZONCOLAN;3;1;1;0;0
+26/02/2013;VC;Val Sesia-Alagna;1;3;3;0;0
+26/02/2013;BZ;Alpe di Siusi - Rif. Sasso Piatto;2;1;1;0;0
+27/02/2013;AO;Cogne - Valnontey - Cascata dei Troll;5;1;0;1;0
+27/02/2013;BL;Monte Pore;2;2;2;0;0
+02/03/2013;CN;ValMaira-Acceglio-Oronaye;1;8;5;3;0
+03/03/2013;AO;Cogne - Valeille - Cascata Cold Couloir;5;9;9;0;0
+04/03/2013;VC;VaaleSesia-Alagna-Passo della Coppa;3;1;0;0;1
+09/03/2013;BZ;Val Racines - Kalcheralm;4;2;2;0;0
+15/03/2013;LC;Canale Comera - Resegone;5;2;0;2;0
+15/03/2013;BZ;Valle Aurina - Predoi;1;2;1;1;0
+16/03/2013;SO;Passo del Serio - Monte Torena;2;5;5;0;0
+16/03/2013;BZ;Solda - Gran Zebru;1;3;1;1;1
+19/03/2013;BI;Oropa-Monte Muanda;2;1;1;0;0
+22/03/2013;AO;Valgrisenche - Giasson;3;1;1;0;0
+26/03/2013;BZ;Val Martello - Val Madriccio;1;6;4;0;2
+29/03/2013;SO;Palon de la Mare - Valfurva;1;2;2;0;0
+31/03/2013;BL;Passo Falzarego - S.R. 48 delle Dolomiti;6;1;1;0;0
+31/03/2013;VB;Devero;1;1;0;0;1
+31/03/2013;SO;Passo Marinelli occidentale - Valmalenco;1;2;2;0;0
+31/03/2013;AO;Valgrisenche - Arp Vieille;1;4;4;0;0
+31/03/2013;VB;Valle Formazza- rio del Sabbione;2;1;0;0;1
+01/04/2013;BZ;Plose - Gabler;3;1;1;0;0
+01/04/2013;BZ;Solda - Cima Beltovo di Fuori;3;4;0;0;4
+08/04/2013;SO;Monte del Buon Curato - Livigno;2;2;1;1;0
+10/04/2013;TN;Marmolada - Punta Penia;2;1;1;0;0
+13/04/2013;AO;Bionaz strada lungo diga Place Moulin Rif Prarayer;1;2;2;0;0
+13/04/2013;CN;Val Varaita - Bellino - monte Mongioia;2;2;1;1;0
+13/04/2013;AO;Gressoney-La-TrinitÇ torrente Lys zona Tschiefler;8;1;0;0;1
+13/04/2013;BZ;Riva di Tures;2;1;0;1;0
+13/04/2013;BS;Cima Calotta - Temó;2;3;2;1;0
+15/04/2013;BZ;Solda;4;2;2;0;0
+15/04/2013;AO;Valsavarenche - sentiero Rifugio Vittorio Emanuele;2;1;1;0;0
+01/05/2013;BL;"Monte Pelmo - Forcella ""La Fessura""";1;2;1;1;0
+14/05/2013;AO;Val Veny - Aiguille de Bionassay;1;1;0;1;0
+18/05/2013;BS;Cima Calotta - Temó;1;4;2;2;1
+24/05/2013;SO;Punta degli Spiriti - Bormio;8;1;1;0;0
+16/06/2013;SO;Cima Dosegó - Valfurva;2;1;1;0;0
+25/09/2013;AO;Val Veny - Monte Bianco - Col Freney;5;2;0;2;0
+01/12/2013;CN;Val Vermenagna - monte Creusa;1;2;1;1;0
+26/12/2013;BZ;Racines - Passo Giovo;8;1;0;1;0
+26/12/2013;AO;Champorcher - comprensorio sciistico;3;1;0;1;0
+26/12/2013;TO;Valle Susa - Bardonecchia - Les Arnauds;3;1;0;0;1
+26/12/2013;TO;Valle Susa - Bardonecchia - Melezet;3;1;0;1;0
+26/12/2013;TN;Valle di Sole - Marilleva - Monte Vigo;3;2;2;0;0
+27/12/2013;BZ;Brennero - Val di Fleres - Bodnerberg;2;2;0;2;0
+27/12/2013;CN;Valle Po - Crissolo;3;2;0;2;0
+28/12/2013;SO;Fopa di Manz - Val Malghera - Grosio;8;1;0;0;1
+28/12/2013;AO;Conca di Pila - Platta de Grevon Nord;3;2;0;0;2
+30/12/2013;TO;Valle Susa - Claviere - Colletto Verde;3;2;1;0;1
+05/01/2014;BS;Valle del Serodine - Passo del Tonale;3;1;1;0;0
+05/01/2014;VB;Val Divedro - Alpe Ciamporino;3;1;0;0;1
+05/01/2014;BL;Misurina - Col de Varda;2;1;0;0;1
+06/01/2014;AO;Monte Bianco Ghiacciaio del Toula Canale Tedeschi;3;5;3;2;0
+06/01/2014;BZ;Valle Aurina - Monte Spico;3;1;0;0;1
+08/01/2014;BL;Arabba - strada SR48 localitÖ Bosch de Ruac;6;1;0;1;0
+19/01/2014;BI;Valle Elvo - Truc del Buscajon;2;2;0;2;0
+21/01/2014;TN;Marmolada Serrauta - Pista Sass del Mul;8;1;0;1;0
+21/01/2014;TO;Valle Orco - Alpe Renarda;8;2;0;1;1
+22/01/2014;LC;Grignetta - Canale Scarrettone;5;1;0;0;1
+25/01/2014;BL;Monte Pelmo - Forcella Rossa;2;1;1;0;0
+25/01/2014;BL;Col di lana - Monte Sief;2;1;1;0;0
+25/01/2014;SO;Canalone Groppera - Madesimo;1;1;1;0;0
+25/01/2014;TN;Val Canali - Torrioni Vani Alti;5;3;2;1;0
+25/01/2014;UD;Val rio del lago - Forca del a Val;1;3;3;0;0
+25/01/2014;BZ;Val Martello - Punta di Lasa;1;6;5;1;0
+26/01/2014;BZ;Rosengarten - Tschagerjoch;1;1;0;1;0
+26/01/2014;SO;Mottolino - Livigno;4;1;1;0;0
+28/01/2014;AQ;Gran Sasso Campo Imperatore Zona dei Valloni;3;2;1;0;1
+28/01/2014;BZ;Bressanone - Plose;3;1;1;0;0
+06/02/2014;AO;Ayas - Bec de Nana (Falconetta);2;1;0;0;1
+06/02/2014;AO;Valtournenche - Cheneil - Col des Fontaines NW;3;7;5;1;1
+08/02/2014;BL;SR 48 Agordina - Pieve di Livinallongo;6;2;1;1;0
+12/02/2014;BL;Tofane - Pista da sci Forcella Rossa;4;2;2;0;0
+12/02/2014;SO;Costa Sobretta - Valfurva;3;1;1;0;0
+17/02/2014;AO;Valsavarenche DÇgioz Cascata Trip in the night;5;2;1;0;1
+20/02/2014;BZ;Val di Roja - Ausserer Nockenkopf;2;2;1;1;0
+20/02/2014;BL;Livinallongo del Col di Lana - Frazione di Livinä;8;1;0;1;0
+23/02/2014;BZ;Braies - Helltaler Schlechten;2;1;0;1;0
+25/02/2014;TN;Valle di Fassa - Marmolada;3;1;1;0;0
+02/03/2014;TN;"Paganella - Fuori pista ""Tre-Tre""";1;3;3;0;0
+02/03/2014;LC;Val Biandino - Introbio;8;1;1;0;0
+02/03/2014;TN;Paganella - Dosso Larici;3;2;2;0;0
+04/03/2014;TN;Val Giudicarie - passo Durone cima Sära;2;1;0;0;1
+04/03/2014;BZ;Campill - Badia - Sass de Putia;2;2;2;0;0
+05/03/2014;AO;morena tra Rif. Mezzalama e Lago Blu;3;1;0;1;0
+06/03/2014;TO;Val Susa - Pra Claud, Fenils (TO) Monte Chaberton;2;1;0;0;1
+09/03/2014;CO;Monte Palanzone;8;3;;2;1
+16/03/2014;TN;valle di Breguzzo - val del Vescovo;2;1;1;0;0
+16/03/2014;RE;Appennino Tosco-emiliano Alpe di Succiso;2;2;0;0;2
+25/03/2014;TN;Valle di Fassa - Pian Trevisan (sotto Gran Vernel);2;1;0;1;0
+13/04/2014;BZ;Val Senales - Hintereis;3;1;1;0;0
+19/04/2014;BZ;Passo delle Erbe - Sass de Putia;2;1;0;1;0
+01/05/2014;LC;Grignone - Pastura - sopra Baite Comolli;5;1;0;1;0
+01/05/2014;TN;Val di Fassa - Punta Penia Marmolada;2;4;3;1;0
+01/05/2014;TO;Valli di Lanzo - Ciamarella;1;4;0;3;1
+04/05/2014;BZ;Trafoi - Ortles;1;3;3;0;0
+04/05/2014;CN;Valle Gesso - Canale Lourousa;1;5;0;3;2
+04/05/2014;SO;Canalino sud Gran Zebró;5;5;3;2;0
+19/06/2014;CN;Valle Po - Parete Nord Monviso;5;2;0;2;0
+31/07/2014;AO;Gressoney La Trinitä - Sotto la Piramide Vincent;5;3;1;1;1
+18/10/2014;AO;Val d'Ayas - Breithorn;2;4;3;1;0
+18/10/2014;SO;Monte Cevedale - Valfurva;2;1;1;0;0
+07/12/2014;CN;Val Varaita - Rocca la Marchisa;2;3;3;0;0
+07/12/2014;CN;Val Varaita - Faraut;2;2;2;0;0
+08/12/2014;BZ;Val D'ultimo - Cima Sternai;2;1;1;0;0
+08/12/2014;AO;Valle di Champorcher - Cima Beccher;1;3;1;2;0
+08/12/2014;BZ;Val Senales - Oberettes;2;1;1;0;0
+08/12/2014;BZ;Val d'Ultimo;2;1;1;0;0
+12/12/2014;CN;S. Anna di Bellino Monte Faraut;1;1;0;0;1
+12/12/2014;BZ;Val Martello - Orecchia di Lepre;1;1;0;1;0
+14/12/2014;TE;Gran Sasso Parete N Corno piccolo Canale di Mezzo;5;2;0;0;2
+18/12/2014;SO;Pizzo dei Tre Signori;5;1;0;1;0
+20/12/2014;BZ;Val Venosta - Martello - Plattenspitze;2;1;1;0;0
+21/12/2014;BZ;Val Venosta - Laces - Vermoispitze;5;2;0;2;0
+31/12/2014;SO;Monte Lorio - Valle del Latte - Aprica;2;1;0;1;0
+04/01/2015;BZ;GÅrtelspitze - Val Passiria;1;1;1;0;0
+06/01/2015;BZ;Val Racines - Cima del Tempo;1;1;1;0;0
+06/01/2015;BZ;Riva di Tures - Schneespitze;2;6;4;0;2
+06/01/2015;BZ;Riva di Tures - Schneespitze;8;2;2;0;0
+10/01/2015;BZ;Val Senales - cima Saldura;1;1;1;0;0
+11/01/2015;BZ;Gruppo del Sella - Boä;2;4;2;1;1
+15/01/2015;BZ;Valle Aurina - Monte Fumo;1;4;3;1;0
+17/01/2015;BZ;Rio Bianco - Zinsnock;1;4;0;2;2
+17/01/2015;SO;Colombina - Mottolino - Livigno;3;1;1;0;0
+17/01/2015;BL;Faloria -Cortina;3;1;0;1;0
+18/01/2015;BZ;Val Racines - Piccola di Montecroce;1;2;0;2;0
+18/01/2015;AO;Testa dei Fra - versante Vertosan;2;1;0;0;1
+18/01/2015;SO;Bormio 3000 - Pista Bimbi al Sole - Valdisotto;3;2;2;0;0
+18/01/2015;SO;Canale de li Tea - Monte della Neve - Livigno;3;3;3;0;0
+20/01/2015;SO;Monte Garone - Val del Monte - Livigno;3;3;0;2;1
+23/01/2015;AO;Monte Bianco - Discesa del Marbräe;3;1;0;0;1
+24/01/2015;BZ;Ultental - Flimspitze;1;1;1;0;0
+24/01/2015;AO;Cogne - Valnontey - Cascata di ghiaccio Valmiana;5;1;0;1;0
+24/01/2015;BL;Val Visdende - Monte Schiaron;2;1;1;0;0
+25/01/2015;UD;Valle del But - Monte Terzo;1;1;1;0;0
+25/01/2015;BG;Monte Toro - Foppolo;2;3;2;1;0
+31/01/2015;AO;Courmayeur - Pavillon;3;1;0;1;0
+01/02/2015;BZ;Val Senales - Pista Teufelsegg;4;2;1;1;0
+02/02/2015;AO;Courmayeur - Arp - Variante Panei;3;1;0;0;1
+06/02/2015;TO;Valle Stura - Colle della Maddalena;6;1;1;0;0
+07/02/2015;BS;Valle del Lares - Passo Tonale;3;1;1;0;0
+07/02/2015;SO;Vallone Vallecetta - Valdisotto;3;1;1;0;0
+07/02/2015;BL;Monte Averau - comprensorio sciistico 5 Torri;3;2;1;0;1
+07/02/2015;CN;Argentera (CN);3;1;0;0;1
+07/02/2015;VI;Monte Falcone - Recoaro Mille;3;1;0;1;0
+08/02/2015;AO;Valgrisenche - Ormelune;3;2;1;1;0
+08/02/2015;TN;Passo Broccon-Chalet Paradiso antenne monte Agaro;3;1;0;0;1
+08/02/2015;TN;Val di Fassa - forcella Pordoi;1;1;1;0;0
+08/02/2015;AO;Valgrisenche - Plontaz;2;1;1;0;0
+09/02/2015;AO;Pila - Platta de Grevon;3;1;0;1;0
+09/02/2015;TO;Valle Susa - Cima Le Vert;3;1;1;0;0
+10/02/2015;BZ;Val Passiria - Stuls -;2;2;0;1;1
+11/02/2015;BZ;Val Venosta - Slingia;8;1;0;0;1
+17/02/2015;TO;Sagnalonga, Cesana Torinese-Costa Rocchetta;3;4;3;0;1
+20/02/2015;AO;Valgrisenche - Rabuigne;3;2;2;0;0
+25/02/2015;UD;Val Raccolana - Monte Ursic;1;2;2;0;0
+28/02/2015;BZ;Val Gardena - Gruppo del Sassolungo;2;2;1;1;0
+01/03/2015;BL;Misurina - Val Fonda Monte Cristallo;1;3;0;0;3
+06/03/2015;BZ;Resia - Piz Lad;2;1;0;0;1
+06/03/2015;SO;Plan de la Montanella - Livigno;3;1;1;0;0
+07/03/2015;SO;Cima Cantone - Livigno;3;1;1;0;0
+07/03/2015;BZ;Riva di Tures - Triangolo di Riva;1;2;1;1;0
+09/03/2015;SO;Vallaccia - Livigno;3;1;1;0;0
+18/03/2015;TO;Prali-Cappello d'Envie;3;1;1;0;0
+27/03/2015;TO;Cesana Torinese- Valle Thuras- Monte Terra Nera;3;3;0;1;2
+30/03/2015;VB;Alta Val Formazza - Punta del Sabbione;1;2;0;0;2
+02/04/2015;SO;Cime di Lago Spalmo - Val Viola - Valdidentro;2;2;1;0;1
+04/04/2015;AO;Cogne - Grand Serz;2;1;0;1;0
+04/04/2015;AO;Courmayeur - Toula - Canale del cesso;3;1;1;0;0
+05/04/2015;BO;Valle del Silenzio - Monte La Nuda;1;2;0;1;1
+05/04/2015;AO;Vallone di Flassin - Col di Vertosan;2;2;1;1;0
+05/04/2015;AO;Bionaz - vicino Rif. Nacamuli;1;1;0;1;0
+18/04/2015;SO;Monte Scale - Cancano - Valdidentro;2;1;0;1;0
+19/04/2015;SO;Gran Zebró - Valfurva;5;5;4;1;0
+02/05/2015;BS;Cima Calotta - Temó;1;1;1;0;0
+02/05/2015;SO;Colle Pasquale - Valfurva;1;2;2;0;0
+02/05/2015;SO;Monte Cevedale - Valfurva;1;6;6;0;0
+02/05/2015;BZ;Forcella Janiger - Cima Solda;1;6;4;1;1
+02/05/2015;BZ;Val Martello - Rotspitz-Martellerspitz;1;2;2;0;0
+02/05/2015;TO;Rochemolles, Bardonecchia-Punta Almiane;1;1;1;0;0
+02/05/2015;AO;Monte Rosa - Punta Giordani;1;1;1;0;0
+02/05/2015;SO;Punta San Matteo - Valfurva;2;1;0;0;1
+31/10/2015;SO;Monte Cristallo - Passo Stelvio;2;1;1;0;0
+29/11/2015;BZ;Val Senales - Teufelsegg;5;3;2;1;0
+02/12/2015;BZ;Val Senales - Punta della Vedretta;2;1;0;1;0
+23/01/2016;AO;Monte Bianco - Col d'Enträves;3;1;1;0;0
+08/02/2016;BG;Monte Valgussera - Foppolo;3;1;1;0;0
+10/02/2016;SO;Vallone Vallecetta - Valdisotto;3;2;2;0;0
+10/02/2016;BG;Montebello - Foppolo;3;1;1;0;0
+10/02/2016;SO;Vallone Vallecetta - Valdisotto;3;2;2;0;0
+13/02/2016;BZ;Val Ridanna - Kleine Ferse;2;2;1;0;1
+13/02/2016;SO;La Costa - Canalone Groppera - Madesimo;3;3;2;0;1
+18/02/2016;BZ;San Vigilio Marebbe - Monte Sella di Sennes;2;1;0;1;0
+27/02/2016;LC;Pizzo della Pieve - Grignone;5;3;1;2;0
+29/02/2016;TN;val di Fassa- Canazei-Belvedere-Toä;3;2;1;1;0
+01/03/2016;AO;Monte Bianco - Canale del Cesso;3;2;2;0;0
+03/03/2016;UD;Monte Lussari;3;1;1;0;0
+05/03/2016;CN;Val Maira -Strada del Palent;6;1;1;0;0
+06/03/2016;BZ;Val Senales - Hintereis;3;1;1;0;0
+06/03/2016;CN;Valle Maira - Cima Boscasso discesa su Preit;2;1;1;0;0
+06/03/2016;BG;Pizzo Arera - Oltre il Colle;1;2;0;2;0
+07/03/2016;BZ;Vertana Val Rosim - Solda;1;2;1;1;0
+12/03/2016;BZ;Riva di Tures - Monte Nevoso;8;9;2;1;6
+12/03/2016;SO;Vallone Vallecetta - Valdisotto;3;2;2;0;0
+05/04/2016;BZ;Val Martello - discesa dal rifugio casati;2;2;2;0;0
+08/04/2016;BZ;Val di Fleres - Feuersteingletscher;2;2;1;1;0
+10/04/2016;BS;Cima Salimmo - Canale Faustinelli - Ponte di Legno;5;9;7;2;0
+15/04/2016;AO;zona lago d'Arpy - Becca Pougnenta;1;1;0;1;0
+18/04/2016;AO;Valgrisenche - Punta Bassac Sud;1;2;1;0;1
+18/04/2016;SO;Cima Saoseo - Val Viola;1;3;3;0;0
+19/04/2016;BZ;Val di Vizze - Weisszint;2;1;1;0;0
+19/04/2016;BZ;Val Senales - Grawand;3;4;4;0;0
+19/04/2016;AO;Monte Bianco - Petit Mont Blanc - Canale Bonatti;1;1;0;1;0
+19/04/2016;BZ;Val Senales - Gletschersee;3;1;0;1;0
+20/04/2016;AO;Valgrisenche - Rutor;1;3;1;0;2
+20/04/2016;SO;Punta Cadini - Valfurva;2;5;5;0;0
+21/04/2016;TN;Val di Fassa - Punta Penia in Marmolada;1;2;2;0;0
+28/04/2016;BZ;Val Martello - Lyfispitze;1;2;1;0;1
+05/05/2016;SO;Pizzo Stella - Campodolcino;2;1;0;0;1
+21/05/2016;CN;Valle Po-Monviso-Canale Coolidge;2;3;2;0;1
+22/05/2016;BL;Monte Antelao - Canale Oppel;5;1;0;0;1
+01/07/2016;AO;Val Ferret - Mont Dolent;5;1;1;0;0
+04/07/2016;AO;Grandes Jorasses;5;2;2;0;0
+22/10/2016;SO;Monte Cristallo - Ghiacciao dello Stelvio - Bormio;5;4;3;1;0
+22/10/2016;BZ;Valle di Vizze (Pfitsch) - Hochferner;5;4;0;0;4
+29/10/2016;AO;Monte Bianco - sotto Bivacchi Eccles;5;2;0;0;2
+12/11/2016;TN;Gruppo di Brenta - Vedretta di Pratofiorito;5;2;1;0;1
